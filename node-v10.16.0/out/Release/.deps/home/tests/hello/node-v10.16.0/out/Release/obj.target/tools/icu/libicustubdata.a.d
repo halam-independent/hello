@@ -1,0 +1,1 @@
+cmd_/home/tests/hello/node-v10.16.0/out/Release/obj.target/tools/icu/libicustubdata.a := rm -f /home/tests/hello/node-v10.16.0/out/Release/obj.target/tools/icu/libicustubdata.a && ar crsT /home/tests/hello/node-v10.16.0/out/Release/obj.target/tools/icu/libicustubdata.a /home/tests/hello/node-v10.16.0/out/Release/obj.target/icustubdata/deps/icu-small/source/stubdata/stubdata.o
